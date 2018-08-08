@@ -17,6 +17,8 @@ Simple PHPExcel Export Plugin for WordPress
 
 1. Upload `wp-simple-phpexcel-export` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Plugin Menu on Dashboard is Export
+4. Filter added on this code is Filter by author, Filter by start date and by end date
 
 
 == Frequently asked questions ==
